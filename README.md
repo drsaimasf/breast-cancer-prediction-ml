@@ -25,3 +25,7 @@ Achieves high accuracy in predicting cancer risk.
 
 ## Purpose
 To demonstrate machine learning skills in cancer risk prediction and healthcare analytics.
+## Results
+
+The Random Forest model achieved 96% accuracy in predicting cancer risk. This demonstrates the effectiveness of machine learning in healthcare risk prediction and early detection.
+
